@@ -11,7 +11,7 @@ Mail merge using Cognos report to mail Parents HAC access Codes
 Cognos Report(s) can be found at:
 # SMS Shared Content->Shared Between Districts->_temporarilly shared between districts->Rogers
 
-Two reports are made by default
+Two reports are made by default </br>
 Uses a parameter to specify a specific building
 # Mail-Merge-HAC-Access-Building
 
